@@ -1,5 +1,8 @@
 # Mòdul Odoo: School Plus
 
+![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
+![SGE](https://img.shields.io/badge/assignatura-SGE-purple)
+
 Ampliació del mòdul [`school`](https://github.com/sarapratsm/SGE_P1_Odoo_modul_school) per gestionar l'alumnat i les seves matriculacions. Pràctica 2 de l'assignatura de Sistemes de Gestió Empresarial (SGE) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada).
 
 ## Models
