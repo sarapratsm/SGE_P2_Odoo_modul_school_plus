@@ -2,6 +2,7 @@
 
 ![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green?style=for-the-badge)
 ![SGE](https://img.shields.io/badge/assignatura-Sistemes%20de%20Gesti%C3%B3%20Empresarial-purple?style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-M%C3%B2dul-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 Ampliació del mòdul [`school`](https://github.com/sarapratsm/SGE_P1_Odoo_modul_school) per gestionar l'alumnat i les seves matriculacions. Pràctica 2 de l'assignatura de Sistemes de Gestió Empresarial (SGE) del CFGS de Desenvolupament d'Aplicacions Multiplataforma (Institut Milà i Fontanals, Igualada).
 
